@@ -1,0 +1,39 @@
+Narzêdzia 
+
+IntelliJ IDEA
+
+jetbrains.com/idea
+
+nauka programowania
+
+jetbrains.com/academy
+
+codecademy.com
+
+SDA
+GraphQL
+
+SDA
+k6.io
+SDA
+locust.io
+
+SQL
+SDA
+NoSQL
+SDA
+Azure Data Studio
+SDA
+SQL Management Studio
+
+https://github.com/Renai84/sda-test.git
+
+SDA
+na githubie - origin
+
+
+
+SDA
+git commit -m "wiadomosc"
+SDA
+git push origin main
